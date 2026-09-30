@@ -120,26 +120,6 @@ Problem Solving   → 1000+ LeetCode Problems
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ditya17&hide_border=true&area=true&theme=react-dark" width="95%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ditya17/ditya17/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
 ## 📚 Publication
 
 **The Role of KNN Classification Algorithm for Human Stress Detection**
