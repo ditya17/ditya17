@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ditya17&label=Profile%20views&color=0e75b6&style=flat" alt="ditya17" /> </p>
 
-- 🔭 I’m currently working on **DSA, Web Development.**
-
-- 🌱 I’m currently learning **C++, DSA, Web Development.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
