@@ -1,175 +1,156 @@
-<h1 align="center">Hi, I'm Nitya Dwivedi 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>AI Engineer · LLM Evaluation · Applied AI · Software Engineering</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Nitya%20Dwivedi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20%7C%20GenAI%20%7C%20Software%20Engineering&descAlignY=58&descSize=18"/>
 
-<p align="center">
-  I build and evaluate AI systems, with a focus on making LLMs more capable, reliable, and useful.
-</p>
+<a href="https://github.com/ditya17">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=800&lines=AI+%26+GenAI+Engineer;LLM+Evaluation+%26+Benchmark+Engineering;Backend+%26+Full-Stack+Developer;Building+Intelligent+Systems+%F0%9F%A4%96" />
+</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nitya-dwivedi/">LinkedIn</a> ·
-  <a href="mailto:nitya17nitya@gmail.com">Email</a> ·
-  <a href="https://leetcode.com/ditya17/">LeetCode</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ditya17&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
----
-
-### 👩‍💻 About Me
-
-I'm an AI-focused software engineer working at the intersection of **LLM evaluation, AI systems, and software engineering**.
-
-At **Turing**, I work on evaluating and improving frontier AI models through benchmark engineering, RLHF/SFT workflows, agent evaluation, calibration, and synthetic task generation. I've worked across coding and agentic benchmarks including CodeBench, SWE-Bench, TBench, and Harbor. :chatgpt-content-reference{index="1"}
-
-Some things I've worked on:
-
-- 🤖 Multi-agent evaluation pipelines using **AutoGen**
-- 🧪 LLM evaluation, calibration, RLHF & SFT workflows
-- 📊 Benchmark engineering and synthetic dataset generation
-- 🔧 AI agents, tool calling, MCP and RAG systems
-- 🧠 AI-assisted code review and developer tooling
-- 👁️ Computer vision & speech-based AI systems
-- 🚀 Full-stack products from idea to production
-
-I enjoy working on problems where **AI meets real software systems** — especially when there's a difficult engineering or evaluation problem hiding underneath.
-
----
-
-### 🔭 What I'm Working On
-
-- **LLM & Agent Evaluation** — building better ways to test, evaluate and break AI systems
-- **AI Agents** — tool-using and multi-agent workflows
-- **RAG Systems** — retrieval, memory, citations and production deployment
-- **Developer Tools** — AI-assisted code analysis and automated review
-- **Applied AI** — turning research ideas into usable software
-
----
-
-### 🛠️ Tech Stack
-
-#### AI / GenAI
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM%20Evaluation-111827?style=flat" />
-  <img src="https://img.shields.io/badge/RLHF-111827?style=flat" />
-  <img src="https://img.shields.io/badge/SFT-111827?style=flat" />
-  <img src="https://img.shields.io/badge/RAG-111827?style=flat" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat" />
-  <img src="https://img.shields.io/badge/AutoGen-5C2D91?style=flat" />
-  <img src="https://img.shields.io/badge/MCP-111827?style=flat" />
+  <a href="https://github.com/ditya17">
+    <img src="https://img.shields.io/github/followers/ditya17?style=for-the-badge&logo=github&label=Followers" />
+  </a>
+  <a href="https://github.com/ditya17">
+    <img src="https://img.shields.io/github/stars/ditya17?style=for-the-badge&logo=github&label=Stars" />
+  </a>
+  <a href="mailto:nitya17nitya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nitya17nitya%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/nitya-dwivedi">
+    <img src="https://img.shields.io/badge/LinkedIn-Nitya%20Dwivedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-#### Software Engineering
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-</p>
-
-#### Data & Cloud
-<p>
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-</p>
+</div>
 
 ---
 
-### 🚀 Selected Projects
+## ⚡ About
 
-#### 🤖 AI Code Reviewer
-An LLM-powered code review platform combining AI reasoning with traditional developer tooling.
-
-- GPT-4, Claude & Gemini
-- GitHub API integration
-- Tool calling & static analysis
-- Security scanning
-- CI/CD-aware review workflows
-- Contextual fix recommendations
-
-#### 🧠 Enterprise RAG Chatbot
-A production-oriented RAG assistant designed around retrieval, memory and tool use.
-
-- LangChain + LangGraph
-- Pinecone semantic search
-- OpenAI embeddings
-- Citation generation & conversational memory
-- MCP-compatible tool calling
-- FastAPI + Docker deployment
-
-#### 🎓 TestKnock
-Co-founded and built a CUET preparation platform used by thousands of students.
-
-- Full-stack platform with mock tests, scoring and rankings
-- 30,000+ questions
-- 150+ concurrent users
-- Real-time leaderboard and scoring system
-- AWS infrastructure and payment integration
-- Grew from 400 → 3.5K registered users in 12 months :chatgpt-content-reference{index="2"}
+```text
+AI / GenAI        → LLM Evaluation • RAG • MCP • Tool Calling • RLHF • SFT
+Engineering       → Backend • APIs • Distributed Systems • Full-Stack
+Infrastructure    → AWS • GCP • Docker • Linux • CI/CD
+Problem Solving   → 1000+ LeetCode Problems
+```
 
 ---
 
-### 📈 A Few Numbers
+## 🧠 What I Build
 
 <p align="center">
 
-| | |
-|---|---|
-| 🧪 **10,000+** | coding & agentic tasks evaluated |
-| 🤖 **1,000+** | benchmark tasks generated |
-| 👥 **50+** | AI specialists mentored |
-| 🧩 **500+** | escalations resolved |
-| 🏆 **1,000+** | LeetCode problems solved |
-| 🎓 **3.5K+** | TestKnock registered users |
+<img src="https://img.shields.io/badge/AI%20Systems-LLM%20Evaluation-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/GenAI-RAG%20%26%20Agents-1D4ED8?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Node.js-059669?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full%20Stack-Next.js%20%7C%20React-7C3AED?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-F59E0B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 </p>
 
 ---
 
-### 🧩 Problem Solving
+## 🛠️ Tech Stack
 
-I enjoy algorithms and problem solving outside of my day-to-day AI work.
+<div align="center">
 
-- 🏆 1,000+ LeetCode problems solved
-- 💻 Comfortable with Python, C++, JavaScript and Java
-- ♟️ Chess enthusiast
-- 🧩 Sudoku fan
+### AI / GenAI
+
+<img src="https://skillicons.dev/icons?i=python,openai" />
+
+<br/>
+
+`LLM Evaluation` `RLHF` `SFT` `RAG` `LangChain` `LangGraph` `AutoGen` `MCP` `Tool Calling`
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,mysql" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,spring,prisma" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+
+### Cloud / DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ditya17&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ditya17&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ditya17&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## 🏆 Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ditya17&show_icons=true&hide_border=true&count_private=true" alt="Nitya's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ditya17&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ditya17&hide_border=true" alt="GitHub Streak" />
+<img src="https://img.shields.io/badge/1000%2B-LeetCode%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/10K%2B-Tasks%20Evaluated-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/50%2B-Contributors%20Mentored-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/5%2B-Benchmark%20Suites-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/30K%2B-Questions%20Hosted-DC2626?style=for-the-badge"/>
+
 </p>
 
 ---
 
-### 🤝 Let's Connect
+## 📈 Contribution Graph
 
-I'm interested in conversations around **Applied AI, LLMs, AI agents, evaluation, developer tooling and interesting engineering problems**.
+<div align="center">
 
-If you're building something in this space, I'd be happy to connect.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ditya17&hide_border=true&area=true&theme=react-dark" width="95%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nitya-dwivedi/">LinkedIn</a> ·
-  <a href="mailto:nitya17nitya@gmail.com">Email</a>
-</p>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ditya17/ditya17/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## 📚 Publication
+
+**The Role of KNN Classification Algorithm for Human Stress Detection**
+*GRADIVA Review Journal · 2023*
+
+---
+
+<div align="center">
+
+### 💡 Building intelligent systems, one problem at a time.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=120&section=footer"/>
+
+</div>
